@@ -28,6 +28,7 @@ I believe in learning by building: implementing concepts, experimenting with mod
 * SQL
 * R
 * PySpark
+* SQL
 
 **Analytics & Visualisation**
 
