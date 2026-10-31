@@ -74,6 +74,7 @@ My goal is to build things I understand deeply and can explain independently.
 
 ### 🤝 Let's Connect
 
+* **Email ID:** [Aayush Aryan](aayusharyan.co@outlook.com)
 * **LinkedIn:** [Aayush Aryan](https://www.linkedin.com/in/aayush-aryan/)
 
 I'm always interested in connecting with people working in machine learning, deep learning, AI research and engineering.
